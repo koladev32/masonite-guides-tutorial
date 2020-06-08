@@ -33,8 +33,8 @@ AUTH = {
             }
         },
         'api':{
-            'driver':'jwt'.
-            'model':Post
+            'driver':'jwt',
+            'model':Post,
         }
     }
 }
